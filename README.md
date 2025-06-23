@@ -13,6 +13,7 @@ Data preprocessing means turning messy raw data into clean, organized data that 
 5.Encoded categorical variables (Sex, Embarked) using one-hot encoding.
 6.Standardized numerical features (Age, Fare) so they have mean 0 and std 1.
 7.Visualized and removed outliers in Fare using boxplots and IQR method.
+
 Tools Used
 - Python (Jupyter Notebook)
 - Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
